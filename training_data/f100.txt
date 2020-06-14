@@ -1,210 +1,451 @@
-IPC
+ipc
 THE INDIAN PENAL CODE
-ipc 1.
-Title and extent of operation of the Code.
-ipc 2.
-Punishment of offences committed within India.
-ipc 3.
-Punishment of offences committed beyond, but which by law may be tried within, India.
-ipc 4.
-Extension of Code to extra-territorial offences.
-ipc 5.
-Certain laws not to be affected by this Act.
-ipc 6.
-Definitions in the Code to be understood subject to exceptions.
-ipc 7.
-Sense of expression once explained.
-ipc 8.
-Gender.
-ipc 9.
-Number.
+ipc 1
+Title and extent of operation of the Code This Act shall be called the Indian Penal Code, and shall 3[extend to the whole of India 4[except the State of Jammu and Kashmir]].
+ipc 2
+Punishment of offences committed within India
+Every person shall be liable to punishment
+under this Code and not otherwise for every act or omission contrary to the provisions thereof, of which
+he shall be guilty within 5[India]
+ipc 3
+Punishment of offences committed beyond, but which by law may be tried within, India. Any person liable, by any 7[Indian law], to be tried for an offence committed beyond 8[India] shall be dealt with according to the provisions of this Code for any act committed beyond 8[India] in the same manner as if such act had been committed within 5[India].
+ipc 4
+Extension of Code to extra-territorial offencesThe provisions of this Code apply also to any offence committed by (1) any citizen of India in any place without and beyond India; (2) any person on any ship or aircraft registered in India wherever it may be. (3) any person in any place without and beyond India committing offence targeting a computer resource located in India.
+ipc 5
+Certain laws not to be affected by this Act.Nothing in this Act shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government of India or the provisions of any special or local law.
+ipc 6
+Definitions in the Code to be understood subject to exceptionsThroughout this Code everydefinition of an offence, every penal provision, and every illustration of every such definition or penalprovision, shall be understood subject to the exceptions contained in the Chapter entitled “GeneralExceptions”, though those exceptions are not repeated in such definition, penal provision, or illustration
+ipc 7
+Sense of expression once explained Every expression which is explained in any part of this Code, is used in every part of this Code in conformity with the explanation
+ipc 8
+Gender The pronoun “he” and its derivatives are used of any person, whether male or female.
+ipc 9
+Number Unless the contrary appears from the context, words importing the singular number include the plural number, and words importing the plural number include the singular number.
 ipc 10.
-Man. Woman.
+Man.Woman.The word “man” denotes a male human being of any age; the word “woman” denotes a female human being of any age.
 ipc 11.
-ipc “Person”.
+"Person”.—The word “person” includes any Company or Association or body of persons,whether incorporated or not.
 ipc 12.
-Public.
+“Public”.—The word “public” includes any class of the public or any community.
 ipc 13.
-Omitted.
+Definition of “Queen”Omitted by the A.O.1950.
 ipc 14.
-Servant of Government.
+“Servant of Government”.—The words “servant of Government” denote any officer or servant servant continued, appointed or employed in India by or under the authority of Government.]
 ipc 15.
-Repealed.
-ipc 16.
-Repealed.
-ipc 17.
-Government.
-ipc 18.
-India.
-ipc 19.
-Judge.
-ipc 20.
-Court of Justice.
-ipc 21.
-Public servant.
-ipc 22.
-Moveable property.
-ipc 23.
-Wrongful gain.Wrongful loss.Gaining wrongfully. Losing wrongfully.
-ipc 24.
-Dishonestly.
-ipc 25.
-Fraudulently.
-26.ipc
-Reason to believe.
-ipc 27.
-Property in possession of wife, clerk or servant.
-ipc 28.
-Counterfeit.
-ipc 29.
-Document.
-ipc 29A.
-Electronic record.
-ipc 30.
-Valuable security.
-ipc 31.
-A will.
-ipc 32.
-Words referring to acts include illegal omissions.
-ipc 33.
-Act.Omission.
-ipc 34.
-Acts done by several persons in furtherance of common intention.
-ipc 35.
-When such an act is criminal by reason of its being done with a criminal knowledge or intention.
-ipc 36.
-Effect caused partly by act and partly by omission.
-ipc 37.
-Co-operation by doing one of several acts constituting an offence.
-ipc 38.
-Persons concerned in criminal act may be guilty of different offences.
-ipc 39.
-Voluntarily.
-ipc 40.
-Offence.
-ipc 41.
-Special law.
-ipc 42.
-Local law.
-ipc 43.
-Illegal.Legally bound to do.
-ipc 44.
-Injury.
-ipc 45.
-Life.
-ipc 46.
-Death.
-ipc 47.
-Animal.
-ipc 48.
-Vessel.
-ipc 49.
-Year.Month.
+Definition of “British India”Rep.by the A.O.1937.
+ipc  16.
+Definition of “Government of India”Rep,ibid.
+ipc  17
+“Government”.—The word “Government” denotes the Central Government or the Government of a 2***State.]
+ipc  18.
+“India”.—“India” means the territory of India excluding the State of Jammu and Kashmir.]
+ipc  19.
+“Judge”.—The word “Judge” denotes not only every person who is officially designated as a Judge, but also every person.who is empowered by law to give, in any legal proceeding, civil or criminal, a definitive judgment, or a judgment which, if not appealed against, would be definitive, or a judgment which, if confirmed by some other authority, would be definitive, or who is one of a body or persons, which body of persons is empowered by law to give such a judgment.
+ipc  20.
+“Court of Justice”.—The words “Court of Jutsice” denote a Judge who is empowered by law to act judicially alone, or a body of Judges which is empowered by law to act judicially as a body, when such Judge or body of Judges is acting judicially.
+ipc  21.
+“Public servant”.—The words “public servant” denote a person falling under any of the descriptions hereinafter following, namely— Second.—Every Commissioned Officer in the Military, 6[Naval or Air] Forces 7[8*** of India]; Third.—Every Judge including any person empowered by law to discharge, whether by himself or as a member of any body of persons, any adjudicatory functions;] Fourth.—Every officer of a Court of Justice 10[(including a liquidator, receiver or commissioner)]whose duty it is, as such officer, to investigate or report on any matter of law or fact, or to make, authenticate, or keep any document, or to take charge or dispose of any property, or to execute any judicial process, or to administer any oath, or to interpret, or to preserve order in the Court, and every person specially authorised by a Court of Justice to perform any of such duties; Fifth.—Every juryman, assessor, or member of a panchayat assisting a Court of Justice or public servant Sixth.—Every arbitrator or other person to whom any cause or matter has been referred for decision or report by any Court of Justice, or by any other competent public authority; Seventh.—Every person who holds any office by virtue of which he is empowered to place or keep any person in confinement;Eighth.—Every officer of 1[the Government] whose duty it is, as such officer, to prevent offences, to give information of offences, to bring offenders to justice, or to protect the public health, safety or convenience; Ninth.—Every officer whose duty it is as such officer, to take, receive, keep or expend any property on behalf of 1[the Government], or to make any survey, assessment or contract on behalf of 1[the Government], or to execute any revenue-process, or to investigate, or to report, on any matter affecting the pecuniary interests of 1[the Government], or to make, authenticate or keep any document relating to the pecuniary interests of 1[the Government], or to prevent the infraction of any law for the protection o the pecuniary interests of 1[the Government] 2***;Tenth.—Every officer whose duty it is, as such officer, to take, receive, keep or expend any property, to make any survey or assessment or to levy any rate or tax for any secular common purpose of any village, town or district, or to make, authenticate or keep any document for the ascertaining of the rights of the people of any village, town or district;3[Eleventh.—Every person who holds any office in virtue of which he is empowered to prepare, publish, maintain or revise an electoral roll or to conduct an election or part of an election;] Twelfth.—Every person—(a) in the service or pay of the Government or remunerated by fees or commission for the performance of any public duty by the Government; (b) in the service or pay of a local authority, a corporation established by or under a Central, Provincial or State Act or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956).]
+ipc  22.
+“Movable property”. —The words “movable property” are intended to include corporeal property of every description, except land and things attached to the earth or permanently fastened to anything which is attached to the earth.
+ipc  23.
+“Wrongful gain”.—“Wrongful gain” is gain by unlawful means of property to which the persongaining is not legally entitled.“Wrongful loss”.—“Wrongful loss” is the loss by unlawful means of property to which the person losing it is legally entitled. Gaining wrongfully/Losing wrongfully. —A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property.
+ipc  24.
+“Dishonestly”. —Whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person, is said to do that thing “dishonestly”.
+ipc  25.
+“Fraudulently”. —A person is said to do a thing fraudulently if he does that thing with intent to defraud but not otherwise.
+ipc  26.
+“Reason to believe”. —A person is said to have “reason to believe” a thing, if he has sufficient cause to believe that thing but not otherwise.
+ipc  27.
+“Property in possession of wife, clerk or servant"—When property is in the possession of a person's wife, clerk or servant, on account of that person, it is in that person's possession within the meaning of this Code.Explanation.—A person employed temporarily or on a particular occasion in the capacity of a clerk or servant, is a clerk or servant within the meaning of this section.
+ipc  28.
+“Counterfeit”. —A person is said to “counterfeit” who causes one thing to resemble another thing, intending by means of that resemblance to practise deception, or knowing it to be likely that deception will thereby be practised.
+ipc  29.
+“Document”.—The word “document” denotes any matter expressed or described upon any substance by means of letters, figures or marks, or by more than one of those means, intended to be used, or which may be used, as evidence of that matter.
+ipc  29A.
+“Electronic record”. —The words “electronic record” shall have the meaning assigned to them in clause (t) of sub-section (1) of section 2 of the Information Technology Act, 2000 (21 of 2000).]
+ipc  30.
+“Valuable security”.—The words “valuable security” denote a document which is, or purports to be, a document whereby any legal right is created, extended, transferred, restricted, extinguished or released, or whereby any person acknowledges that he lies under legal liability, or has not a certain legal right.
+ipc  31.
+“A will”.
+—The words “a will” denote any testamentary document.
+ipc  32.
+Words referring to acts include illegal omissions.—In every part of this Code, except where a contrary intention appears from the context, words which refer to acts done extend also to illegal omissions.
+ipc  33.
+“Act”. “Omission”.—The word “act” denotes as well as series of acts as a single act-the word “omission” denotes as well a series of omissions as a single omission.
+ipc  34.
+Acts done by several persons in furtherance of common intention. —When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.]
+ipc  35.
+When such an act is criminal by reason of its being done with a criminal knowledge or intention. —Whenever an act, which is criminal only by reason of its being done with a criminal knowledge or intention, is done by several persons, each of such persons who joins in the act with such knowledge or intention is liable for the act in the same manner as if the act were done by him alone with that knowledge or intention.
+ipc  36.
+Effect caused partly by act and partly by omission. —Wherever the causing of a certain effect, or an attempt to cause that effect, by an act or by an omission, is an offence, it is to be understood that the causing of that effect partly by an act and partly by an omission is the same offence.
+ipc  37.
+Co-operation by doing one of several acts constituting an offence. —When an offence is committed by means of several acts, whoever intentionally co-operates in the commission of that offence by doing any one of those acts, either singly or jointly with any other person, commits that offence.
+ipc  38.
+Persons concerned in criminal act may be guilty of different offences. —Where several persons are engaged or concerned in the commission of a criminal act, they may be guilty of different offences by means of that act
+ipc  39.
+“Voluntarily”. —A person is said to cause an effect “voluntarily” when he causes it by means whereby he intended to cause it, or by means which, at the time of employing those means, he knew or had reason to believe to be likely to cause it.
+ipc   40.
+“Offence”.—Except in the 2[Chapters] and sections mentioned in clauses 2 and 3 of this section,the word “offence” denotes a thing made punishable by this Code.In Chapter IV, 3[Chapter VA] and in the following sections, namely, sections 4[64, 65, 66, 5[67], 71],109, 110, 112, 114, 115, 116, 117,6[118, 119 and 120] 187, 194, 195, 203, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388, 389 and 445, the word “offence” denotes a thing punishable under this Code, or under any special or local law as hereinafter defined. And in sections 141, 176, 177, 201, 202, 212, 216 and 441, the word “offence” has the same meaning when the thing punishable under the special or local law is punishable under such law with imprisonment for a term of six months or upwards, whether with or without fine.]
+ipc  41.
+“Special law”.—A “special law” is a law applicable to a particular subject.
+ipc  42.
+“Local law”.—A “local law” is a law applicable only to a particular part of 7[8***9[India]].
+ipc  43.
+“Illegal”. “Legally bound to do”.—The word “illegal” is applicable to everything which is an offence or which is prohibited by law, or which furnishes ground for a civil action; and a person is said to be “legally bound to do” whatever it is illegal in him to omit.
+ipc  44.
+“Injury”.—The word “injury” denotes any harm whatever illegally caused to any person, in body, mind, reputation or property.
+ipc  45.
+“Life”.—The word “life” denotes the life of a human being, unless the contrary appears from the context.
+ipc  46.
+“Death”.—The word “death” denotes the death of a human being unless the contrary appears from the context.
+ipc  47.
+“Animal”.—The word “animal” denotes any living creature, other than a human being.
+ipc  48.
+“Vessel”.—The word “vessel” denotes anything made for the conveyance by water of human beings or of property.
+ipc  49.
+“Year”. “Month”. —Wherever the word “year” or the word “month” is used, it is to be understood that the year or the month is to be reckoned according to the British calendar.
 ipc  50.
-Section.
-ipc 51.
-Oath.
-ipc 52.
-Good faith.
-ipc 52A.
-Harbour.
-ipc 53.
-Punishments.
-ipc 53A.
-Construction of reference to transportation.
-ipc 54.
-Commutation of sentence of death.
-ipc 55.
-Commutation of sentence of imprisonment for life.
-ipc 55A.
-Definition of appropriate Government.
-ipc 56.
-Repealed.
-ipc 57.
-Fractions of terms of punishment.
-ipc 58.
-Repealed.
-ipc 59.
-Repealed
-ipc 60.
-Sentence may be in certain cases of imprisonment wholly or partly rigorous of simple.
-ipc 61.
-Repealed.
-ipc 62.
-Repealed
-ipc 63.
-Amount of fine.
-ipc 64.
-Sentence of imprisonment for non-payment of fine.
-ipc 65.
-Limit to imprisonment for non-payment of fine, when imprisonment and fine awardable.
-ipc 66.
-Description of imprisonment for non-payment of fine.
-ipc 67.
-Imprisonment for non-payment of fine, when offence punishable with fine only.
-ipc 68.
-Imprisonment to terminate on payment of fine.
-ipc 69.
-Termination of imprisonment on payment of proportional part of fine.
-ipc 70.
-Fine leviable within six years, of during imprisonment.Death not to discharge property from liability.
-ipc 71.
-Limit of punishment of offence made up of several offences.
-ipc 72.
-Punishment of person guilty of one of several offences, the judgment stating that is doubtful of which.
-ipc 73.
-Solitary confinement.
-ipc 74.
-Limit of solitary confinement.
-ipc 75.
-Enhanced punishment for certain offences under Chapter X II or Chapter XVII after previous conviction.
-ipc 76.
-Act done by a person bound, or by mistake of fact believing himself bound, by law.
-ipc 77.
-Act of Judge when acting judicially.
-ipc 78.
-Act done pursuant to the judgment or order of Court.
-ipc 79.
-Act done by a person justified, or by mistake of fact believing himself justified, by law.
-ipc 80.
-Accident in doing a lawful act.
-ipc 81.
-Act likely to cause harm, but done without criminal intent, and to prevent other harm.
-ipc 82.
-Act of a child under seven years of age.
-ipc 83.
-Act of a child above seven and under twelve of immature understanding.
-ipc 84.
-Act of a person of unsound mind.
-ipc 85.
-Act of a person incapable of judgment by reason of intoxication caused against his will.
-ipc 86.
-Offence requiring a particular intent or knowledge committed by one who is intoxicated.
-ipc 87.
-Act not intended and not known to be likely to cause death or grievous hurt, done by consent.
-ipc 88.
-Act not intended to cause death, done by consent in good faith for person's benefit.
-ipc 89.
-Act done in good faith for benefit of child or insane person, by or by consent of guardian.Provisos.
-ipc 90.
-Consent known to be given under fear or misconception.Consent of insane person.Consent of child.
-ipc 91.
-Exclusion of acts which are offences independently of harm caused.
-ipc 92.
-Act done in good faith for benefit of a person without consent.Provisos.
-ipc 93.
-Communication made in good faith.
-ipc 94.
-Act to which a person is compelled by threats.
-ipc 95.
-Act causing slight harm Of the Right of Private Defense
-ipc 96.
-Things done in private defence.
+“Section”. —The word “section” denotes one of those portions of a Chapter of this Code which are distinguished by prefixed numeral figures.
+ipc  51.
+“Oath”. —The word “oath” includes a solemn affirmation substituted by law for an oath, and any declaration required or authorised by law to be made before a public servant or to be used for the purpose of proof, whether in a Court of Justice or not.
+ipc  52.
+“Good faith”. —Nothing is said to be done or believed in “good faith” which is done or believed without due care and attention.
+ipc  52A.
+“Harbour”.—Except in section 157, and in section 130 in the case in which the harbour is given by the wife or husband of the person harboured, the word “harbour” includes the supplying a person with shelter, food, drink, money, clothes, arms, ammunition or means of conveyance, or the assisting a person by any means, whether of the same kind as those enumerated in this section or not, to evade apprehension.
+ipc  53.
+Punishments.—The punishments to which offenders are liable under the provisions of this Codeare—First.—Death;Secondly.—Imprisonment for lifeFourthly.—Imprisonment, which is of two descriptions, namely:—(1) Rigorous, that is, with hard labour;(2) Simple;Fifthly.—Forfeiture of property;Sixthly.—Fine.
+ipc  53A.
+Construction of reference to transportation.—(1) Subject to the provisions of sub-section (2) and sub-section (3), any reference to “transportation for life” in any other law for the time  being in force or in any instrument or order having effect by virtue of any such law or of any enactment repealed shall be construed as a reference to imprisonment for life.2 In every case in which a sentence of transportation for a term has been passed before the commencement of the Code of Criminal Procedure (Amendment) Act, 5[1955 (26 of 1955)],the offender shall be dealt with in the same manner as if sentenced to rigorous imprisonment for the same term.3 Any reference to transportation for a term or to transportation for any shorter term (by whatever name called) in any other law for the time being in force shall be deemed to have been omitted.4 Any reference to “transportation” in any other law for the time being in force shall,— (a) if the expression means transportation for life, be construed as a reference to imprisonment for life; (b) if the expression means transportation for any shorter term, be deemed to have been omitted.]
+ipc  54.
+Commutation of sentence of death. —In every case in which sentence of death shall have been passed, 6[the appropriate Government] may, without the consent of the offender, commute the punishment punishment for any other punishment provided by this Code.
+ipc  55.
+Commutation of sentence of imprisonment for life. —In every case in which sentence of [imprisonment] for life shall have been passed, [the appropriate Government] may, without the consent of the offender, commute the punishment for imprisonment of either description for a term not exceeding fourteen years.
+ipc  55A.
+Definition of “appropriate Government”. —In sections fifty-four and fifty-five the expression “appropriate Government” means,— (a) in cases where the sentence is a sentence of death or is for an offence against any law relating to a matter to which the executive power of the Union extends, the Central Government; and (b) in cases where the sentence (whether of death or not) is for an offence against any law relating to a matter to which the executive power of the State extends, the Government of the State within which the offender is sentenced.]
+ipc  56.
+Sentence of Europeans and Americans to penal servitude.Proviso as to sentence for term exceeding ten years but not for life.Rep.by the Criminal Law (Removal of Racial Discriminations) Act, 1949 (17 of 1949) (w. e. f. 6-4-1949).
+ipc  57.
+Fractions of terms of punishment.—In calculating fractions of terms of punishment,[imprisonment] for life shall be reckoned as equivalent to[imprisonment] for twenty years.
+ipc  58.
+Offenders sentenced to transportation how dealt with until transported.Rep.by the Code of Criminal Procedure (Amendment) Act, 1955 (26 of 1955), s. 117 and the Sch. (w.e.f. 1-1-1956).
+ipc  59.
+Transportation instead of imprisonment Rep.by s.117 and the Sch, ibid.(w.e.f. 1-1-1956).
+ipc  60.
+Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.—In every case in which an offender is punishable with imprisonment which may be of either description, it shall be competent to the Court which sentences such offender to direct in the sentence that such imprisonment shall be wholly rigorous, or that such imprisonment shall be wholly simple, or that any part of such imprisonment shall be rigorous and the rest simple.
+ipc  61.
+Sentence of forfeiture of property.Rep.by the Indian Penal Code (Amendment) Act, 1921(16 of 1921)
+ipc  62.
+Forfeiture of property, in respect of offenders punishable with death, transportation or imprisonment.Rep.by s.4 ibid.
+ipc  63.
+Amount of fine. —Where no sum is expressed to which a fine may extend, the amount of fine to which the offender is liable is unlimited, but shall not be excessive.
+ipc  64.
+Sentence of imprisonment for non-payment of fine.—In every case of an offence punishable with imprisonment as well as fine, in which the offender is sentenced to a fine, whether with or without imprisonment, and in every case of an offence punishable 4[with imprisonment or fine, or] with fine only, in which the offender is sentenced to a fine.it shall be competent to the Court which sentences such offender to direct by the sentence that, in default of payment of the fine, the offender shall suffer imprisonment for a certain term, which imprisonment shall be in excess of any other imprisonment to which he may have been sentenced or to which he may be liable under a commutation of a sentence.
+ipc  65.
+Limit to imprisonment for non-payment of fine, when imprisonment and fine awardable. —The term for which the Court directs the offender to be imprisoned in default of payment of a fine shall not exceed one-fourth of the term of imprisonment which is the maximum fixed for the offence, if the offence be punishable with imprisonment as well as fine.
+ipc  66.
+Description of imprisonment for non-payment of fine. —The imprisonment which the Court imposes in default of payment of a fine may be of any description to which the offender might have been sentenced for the offence
+ipc  67.
+Imprisonment for non-payment of fine, when offence punishable with fine only. —If the offence be punishable with fine only, 1[the imprisonment which the Court imposes in default of payment of the fine shall be simple, and] the term for which the Court directs the offender to be imprisoned, in default of payment of fine, shall not exceed the following scale, that is to say, for any term not exceeding two months when the amount of the fine shall not exceed fifty rupees, and for any term not exceeding four months when the amount shall not exceed one hundred rupees, and for any term not exceeding six months in any other case.
+ipc  68.
+Imprisonment to terminate on payment of fine —The imprisonment which is imposed in default of payment of a fine shall terminate whenever that fine is either paid or levied by process of law.
+ipc  69.
+Termination of imprisonment on payment of proportional part of fine. —If, before the expiration of the term of imprisonment fixed in default of payment, such a proportion of the fine be paid or levied that the term of imprisonment suffered in default of payment is not less than proportional to the part of the fine still unpaid, the imprisonment shall terminate.
+ipc  70.
+Fine leviable within six years, of during imprisonment.Death not to discharge property from liability. —The fine, or any part thereof which remains unpaid, may be levied at any time within six years after the passing of the sentence, and if, under the sentence, the offender be liable to imprisonment for a longer period than six years, then at any time previous to the expiration of that period; and the death of the offender does not discharge from the liability any property which would, after his death, be legally liable for his debts.
+ipc  71.
+Limit of punishment of offence made up of several offences. —Where anything which is an offence is made up of parts, any of which parts is itself an offence, the offender shall not be punished with the punishment of more than one of such his offences, unless it be so expressly provided.Where anything is an offence falling within two or more separate definitions of any law in force for the time being by which offences are defined or punished, or where several acts, of which one or more than one would by itself or themselves constitute an offence, constitute, when combined, a different offence, the offender shall not be punished with a more severe punishment than the Court which tries him could award for any one of such offences
+ipc  72.
+Punishment of person guilty of one of several offences, the judgment stating that it is doubtful of which. —In all cases in which judgment is given that a person is guilty of one of several offences specified in the judgment, but that it is doubtful of which of these offences he is guilty, the offender shall be punished for the offence for which the lowest punishment is provided if the same punishment is not provided for all
+ipc  73.
+Solitary confinement. —Whenever any person is convicted of an offence for which under this Code the Court has power to sentence him to rigorous imprisonment, the Court may, by its sentence, order that the offender shall be kept in solitary confinement for any portion or portions of the imprisonment to which he is sentenced, not exceeding three months in the whole, according to the following scale, that is to say— a time not exceeding one month if the term of imprisonment shall not exceed six months; a time not exceeding two months if the term of imprisonment shall exceed six months and1[shall not exceed one] year a time not exceeding three months if the term of imprisonment shall exceed one year.
+ipc  74.
+Limit of solitary confinement. —In executing a sentence of solitary confinement, such confinement shall in no case exceed fourteen days at a time, with intervals between the periods of solitary confinement of not less duration than such periods; and when the imprisonment awarded shall exceed three months, the solitary confinement shall not exceed seven days in any one month of the whole imprisonment awarded, with intervals between the periods of solitary confinement of not less duration than such periods.
+ipc  75.
+Enhanced punishment for certain offences under Chapter XII or Chapter XVII after previous conviction .—Whoever, having been convicted,— (a) by a Court in 3[India], of an offence punishable under Chapter XII or Chapter XVII of this Code with imprisonment of either description for a term of three years or upwards, shall be guilty of any offence punishable under either of those Chapters with like imprisonment for the like term, shall be subject for every such subsequent offence to 6[imprisonment for life], or to imprisonment of either description for a term which may extend to ten years.]
+ipc  76.
+Act done by a person bound, or by mistake of fact believing himself bound, by law. —Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.
+ipc  77.
+Act of Judge when acting judicially. —Nothing is an offence which is done by a Judge when acting judicially in the exercise of any power which is, or which in good faith he believes to be, given to him by law.
+ipc  78.
+Act done pursuant to the judgment or order of Court. —Nothing which is done in pursuance of, or which is warranted by the judgment or order of, a Court of Justice; if done whilst such judgment or order remains in force, is an offence, notwithstanding the Court may have had no jurisdiction to pass such judgment or order, provided the person doing the act in good faith believes that the Court had such jurisdiction.
+ipc  79.
+Act done by a person justified, or by mistake of fact believing himself, justified, by law. —Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith, believes himself to be justified by law, in doing it.
+ipc  80.
+Accident in doing a lawful act. —Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge in the doing of a lawful act in a lawful manner by lawful means and with proper care and caution.
+ipc  81.
+Act likely to cause harm, but done without criminal intent, and to prevent other harm. —Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property.Explanation.—It is a question of fact in such a case whether the harm to be prevented or avoided was of such a nature and so imminent as to justify or excuse the risk of doing the act with the knowledge that it was likely to cause harm.
+ipc  82.
+Act of a child under seven years of age.—Nothing is an offence which is done by a child under seven years of age.
+ipc  83.
+Act of a child above seven and under twelve of immature understanding.—Nothing is an offence which is done by a child above seven years of age and under twelve, who has not attained  sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.
+ipc  84.
+Act of a person of unsound mind.—Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.
+ipc  85.
+Act of a person incapable of judgment by reason of intoxication caused against his will. —Nothing is an offence which is done by a person who, at the time of doing it, is, by reason of intoxication, incapable of knowing the nature of the act, or that he is doing what is either wrong, or contrary to law: provided that the thing which intoxicated him was administered to him without his knowledge oragainst his will.
+ipc  86.
+Offence requiring a particular intent or knowledge committed by one who is intoxicated. —In cases where an act done is not an offence unless done with a particular knowledge or intent, a personwho does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledgeas he would have had if he had not been intoxicated, unless the thing which intoxicated him wasadministered to him without his knowledge or against his will.
+ipc  87.
+Act not intended and not known to be likely to cause death or grievous hurt, done by consent. —Nothing which is not intended to cause death, or grievous hurt, and which is not known by the doer to be likely to cause death or grievous hurt, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, to any person, above eighteen years of age, who has given consent, whether express or implied, to suffer that harm; or by reason of any harm which it may be known by the doer to be likely to cause to any such person who has consented to take the risk of that harm.
+ipc  88.
+Act not intended to cause death, done by consent in good faith for person's benefit. —Nothing, which is not intented to cause death, is an offence by reason of any harm which it may cause, orbe intended by the doer to cause, or be known by the doer to be likely to cause, to any person for whosebenefit it is done in good faith, and who has given a consent, whether express or implied, to suffer that harm, or to take the risk of that harm.
+ipc  89.
+ Act done in good faith for benefit of child or insane person, by or by consent of guardian. —Nothing which is done in good faith for the benefit of a person under twelve years of age, or of unsound mind, by or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause, or be intended by the doer to cause or be known by the doer to be likely to cause to that person: Provided— Provisos. First.—That this exception shall not extend to the intentional causing of death, or to the attempting to cause death; Secondly.—That this exception shall not extend to the doing of anything which the person doing it knows to be likely to cause death, for any purpose other than the preventing of death or grievous hurt, or the curing of any grievous disease or infirmity; Thirdly.—That this exception shall not extend to the voluntary causing of grievous hurt, or to the attempting to cause grievous hurt, unless it be for the purpose of preventing death or grievous hurt, or the curing of any grievous disease or infirmity; Fourthly.—That this exception shall not extend to the abetment of any offence, to the committing of which offence it would not extend.
+ipc  90.
+Consent known to be given under fear or misconception. —A consent is not such a consent as is intended by any section of this Code, if the consent is given by a person under fear of injury, or under a misconception of fact, and if the person doing the act knows, or has reason to believe, that the consentwas given in consequence of such fear or misconception; or Consent of insane person. —if the consent is given by a person who, from unsoundness of mind, or intoxication, is unable to understand the nature and consequence of that to which he gives his consent; or Consent of child. —unless the contrary appears from the context, if the consent is given by a person who is under twelve years of age.
+ipc  91.
+Exclusion of acts which are offences independently of harm cause. —The exceptions in sections 87, 88 and 89 do not extend to acts which are offences independently of any harm which they may cause, or be intended to cause, or be known to be likely to cause, to the person giving the consent, or on whose behalf the consent is given.
+ipc  92.
+Act done in good faith for benefit of a person without consent. —Nothing is an offence by reason of any harm which it may cause to a person for whose benefit it is done in good faith, even without that person's consent, if the circumstances are such that it is impossible for that person to signify consent, or if that person is incapable of giving consent, and has no guardian or other person in lawful charge of him from whom it is possible to obtain consent in time for the thing to be done with benefit- Provided—Provisos.First.—That this exception shall not extend to the intentional causing of death, or the attempting to cause death; Secondly.—That this exception shall not extend to the doing of anything which the person doing it knows to be likely to cause death, for any purpose other than the preventing of death or grievous hurt, or the curing of any grievous disease or infirmity;Thirdly.—That this exception shall not extend to the voluntary causing of hurt, or to the attempting to cause hurt, for any purpose other than the preventing of death or hurt;Fourthly.—That this exception shall not extend to the abetment of any offence, to the committing of which offence it would not extend.
+ipc  93.
+Communication made in good faith.—No communication made in good faith is an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person.
+ipc  94.
+Act to which a person is compelled by threats.—Except murder, and offences against the State punishable with death, nothing is an offence which is done by a person who is compelled to do it by threats, which, at the time of doing it, reasonably cause the apprehension that instant death to that person will otherwise be the consequence: Provided the person doing the act did not of his own accord, or from a reasonable apprehension of harm to himself short of instant death, place himself in the situation by which he became subject to such constraint.
+ipc  95.
+Act causing slight harm.—Nothing is an offence by reason that it causes, or that it is intended to cause, or that it is known to be likely to cause, any harm, if that harm is so slight that no person of ordinary sense and temper would complain of such harm.Of the Right of Private Defence
+ipc  96.
+Things done in private defence.—Nothing is an offence which is done in the exercise of the right of private defence.
 ipc 97.
-Right of private defence of the body and of property.
+Right of private defence of the body and of property.—Every person has a right, subject to the restrictions contained in section 99, to defend—First.—His own body, and the body of any other person, against any offence affecting the human body;Secondly.—The property, whether movable or immovable, of himself or of any other person, against any act which is an offence falling under the defintion of theft, robbery, mischief or criminal trespass, or which is an attempt to commit theft, robbery, mischief or criminal trespass.
 ipc 98.
-Right of private defence against the act of a person of unsound mind.etc.
-ipc 99.
-Acts against which there is no right of private defence.Extent to which the right may be exercised.
-ipc 100.
-When the right of private defence of the body extends to causing death.
+Right of private defence against the act of a person of unsound mind,etc.—When an act, which would otherwise be a certain offence, is not that offence, by reason of the youth, the want of maturity of understanding, the unsoundness of mind or the intoxication of the person doing that act, or by reason of any misconception on the part of that person, every person has the same right of private defence against that act which he would have if the act were that offence.
+ipc  99.
+Acts against which there is no right of private defence.—There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by a public servant acting in good faith under colour of his office, though that act, may not be strictly justifiable by law.There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by the direction of a public servant acting in good faith under colour of his office, though that direction may not be strictly justifiable by law.There is no right of private defence in cases in which there is time to have recourse to protection of the public authorities.Extent to which the right may be exercised.—The right of private defence in no case extends to the inflicting of more harm than it is necessary to inflict for the purpose of defence.Explanation 1.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by a public servant, as such, unless he knows or has reason to believe, that the person doing the act is such public servant.Explanation 2.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by the direction of a public servant, unless he knows, or has reason to believe, that the person doing the act is acting by such direction, or unless such person states the authority under which he acts, or if he has authority in writing, unless he produces such authority, if demanded.
+ipc  100.
+When the right of private defence of the body extends to causing death. —The right of private defence of the body extends, under the restrictions mentioned in the last preceding section, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely—First.—Such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault Secondly.—Such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault;Thirdly.—An assault with the intention of committing rape;Fourthly.—An assault with the intention of gratifying unnatural lust;Fifthly.—An assault with the intention of kidnapping or abducting;Sixthly.—An assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.1[Seventhly.—An act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.]
+ipc  101.
+When such right extends to causing any harm other than death. —If the offence be not of any of the descriptions enumerated in the last preceding section, the right of private defence of the body does not extend to the voluntary causing of death to the assailant, but does extend, under the restrictions mentioned in section 99, to the voluntary causing to the assailant of any harm other than death.
+ipc  102.
+Commencement and continuance of the right of private defence of the body.—The right ofvprivate defence of the body commences as soon as a reasonable apprehension of danger to the body arises from an attempt or threat to commit the offence though the offence may not have been committed; and it continues as long as such apprehension of danger to the body continues.
+ipc  103.
+When the right of private defence of property extends to causing death.—The right of private defence of property extends, under the restrictions mentioned in section 99, to the voluntary causing of death or of any other harm to the wrong-doer, if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, be an offence of any of the descriptions hereinafter enumerated, namely:—First.—Robbery;Secondly.—House-breaking by night;Thirdly.—Mischief by fire committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property;Fourthly.—Theft, mischief, or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.
+ipc  104.
+When such right extends to causing any harm other than death.—If the offence, the committing of which, or the attempting to commit which occasions the exercise of the right of private defence, be theft, mischief, or criminal trespass, not of any of the descriptions enumerated in the last preceding section, that right does not extend to the voluntary causing of death, but does extend, subject to the restrictions mentioned in section 99, to the voluntary causing to the wrong-doer of any harm other than death.
+ipc  105.
+Commencement and continuance of the right of private defence of property. —The right of private defence of property commences when a reasonable apprehension of danger to the property commences.The right of private defence of property against theft continues till the offender has effected his retreat with the property or either the assistance of the public authorities is obtained, or the property has been recovered.The right of private defence of property against robbery continues as long as the offender causes or attempts to cause to any person death or hurt or wrongful restraint or as long as the fear of instant death or of instant hurt or of instant personal restraint continues.The right of private defence of property against criminal trespass or mischief continues as long as the offender continues in the commission of criminal trespass or mischief.The right of private defence of property against house-breaking by night continues as long as the house-trespass which has been begun by such house-breaking continues.
+ipc  106.
+Right of private defence against deadly assault when there is risk of harm to innocent person. —If in the exercise of the right of private defence against an assault which reasonably causes the apprehension of death, the defender be so situated that he cannot effectually exercise that right without risk of harm to an innocent person, his right of private defence extends to the running of that risk.
+ipc 107.
+Abetment of a thing.—A person abets the doing of a thing First.—Instigates any person to do that thing; or Secondly.—Engages with one or more other person or persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing; or Thirdly.—Intentionally aids, by any act or illegal omission, the doing of that thing.Explanation 1.—A person who, by wilful misrepresentation, or by wilful concealment of a material fact which he is bound to disclose, voluntarily causes or procures, or attempts to cause or procure, a thing to be done, is said to instigate the doing of that thing.
+ipc  108.
+Abettor.—A person abets an offence, who abets either the commission of an offence, or the commission of an act which would be an offence, if committed by a person capable by law of committing an offence with the same intention or knowledge as that of the abettor.Explanation 1.—The abetment of the illegal omission of an act may amount to an offence althoughthe abettor may not himself be bound to do that act.Explanation 2.—To constitute the offence of abetment it is not necessary that the act abetted should be committed, or that the effect requisite to constitute the offence should be caused.
+ipc  108A.
+Abetment in India of offences outside India. —A person abets an offence within the meaning of this Code who, in 2[India], abets the commission of any act without and beyond 2[India] which would constitute an offence if committed in 2[India].
+ipc  109.
+Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment. —Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with the punishment provided for the offence.Explanation.—An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy, or with the aid which constitutes the abetment.
+ipc  110.
+Punishment of abetment if person abetted does act with different intention from that of abettor. —Whoever abets the commission of an offence shall, if the person abetted does the act with a different intention or knowledge from that of the abettor, be punished with the punishment provided for the offence which would have been committed if the act had been done with the intention or knowledge of the abettor and with no other.
+ipc  111.
+Liability of abettor when one act abetted and different act done. —When an Act is abetted and a different act is done, the abettor is liable for the act done, in the same manner and to the same extent as if he had directly abetted it Provided the act done was a probable consequence of the abetment, and was committed under the influence of the instigation, or with the aid or in pursuance of the conspiracy which constituted the abetment.
+ipc 112.
+Abettor when liable to cumulative punishment for act abetted and for act done. —If the act for which the abettor is liable under the last preceding section is committed in addition to the act abetted, and constitute a distinct offence, the abettor is liable to punishment for each of the offences.
+ipc  113.
+Liability of abettor for an effect caused by the act abetted different from that intended by the abettor .—When an act is abetted with the intention on the part of the abettor of causing a particular effect, and an act for which the abettor is liable in consequence of the abetment, causes a different effect from that intended by the abettor, the abettor is liable for the effect caused, in the same manner and to the same extent as if he had abetted the act with the intention of causing that effect, provided he knew that the act abetted was likely to cause that effect.
+ipc  114.
+Abettor present when offence is committed.—Whenever any person, who is absent would be liable to be punished as an abettor, is present when the act or offence for which he would be punishable in consequence of the abetment is committed, he shall be deemed to have committed such act or offence.
+ipc 115.
+Abetment of offence punishable with death or imprisonment for life.—if offence not committed .—Whoever abets the commission of an offence punishable with death or 1[imprisonment for life], shall, if that offence be not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine
+ipc  116.
+Abetment of offence punishable with imprisonment—if offence be not committed. —Whoever abets an offence punishable with imprisonment shall, if that offence be not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment of any description provided for that offence for a term which may extend to one-fourth part of the longest term provided for that offence; or with such fine as is provided for that offence, or with both; if abettor or person abetted be a public servant whose duty it is to prevent offence.—and if the abettor or the person abetted is a public servant, whose duty it is to prevent the commission of such offence, the abettor shall be punished with imprisonment of any description provided for that offence, for a term which may extend to one-half of the longest term provided for that offence, or with such fine as is provided for the offence, or with both.
+ipc 117.
+Abetting commission of offence by the public or by more than ten persons. —Whoever abets the commission of an offence by the public generally or by any number or class of persons exceeding ten, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+ipc  118.
+Concealing design to commit offence punishable with death or imprisonment for life. —Whoever intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with death or 1[imprisonment for life]
+ipc 119.
+Public servant concealing design to commit offence which it is his duty to prevent. —Whoever, being a public servant intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence which it is his duty as such public servant to prevent, 1[voluntarily conceals, by any act or illegal omission or by the use of encryption or any other information hiding tool, the existence of a design] to commit such offence, or makes any representation which he knows to be false respecting such design, if offence be committed.—shall, if the offence be committed, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the longest term of such imprisonment, or with such fine as is provided for that offence, or with both; if offence be punishable with death, etc.—or, if the offence be punishable with death or 2[imprisonment for life], with imprisonment of either description for a term which may extend to ten years; if offence be not committed.—or, if the offence be not committed, shall be punished with imprisonment of any description provided for the offence for a term which may extend to one-fourth part of the longest term of such imprisonment or with such fine as is provided for the offence, or with both.
+ipc 120.
+Concealing design to commit offence punishable with imprisonment. —Whoever, intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with imprisonment, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design, if offence be committed; if offence be not committed.—shall, if the offence be committed, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth, and, if the offence be not committed, to one-eight, of the longest term of such imprisonment, or with such fine as is provided for the offence, or with both.
+ipc  120A.
+Definition of criminal conspiracy. —When two or more persons agree to do, or cause to be done,—(1) an illegal act, or (2) an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy-Provided that no agreement except an agreement to commit an offence shall amount to a criminal conspiracy unless some act besides the agreement is done by one or more parties to such agreement in pursuance thereof.Explanation.—It is immaterial whether the illegal act is the ultimate object of such agreement, or is merely incidental to that object.
+ipc 120B.
+Punishment of criminal conspiracy. —(1) Whoever is a party to a criminal conspiracy to commit an offence punishable with death, 1[imprisonment for life] or rigorous imprisonment for a term of two years or upwards, shall, where no express provision is made in this Code for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence.2 Whoever is a party to a criminal conspiracy other than a criminal conspiracy to commit an offence punishable as aforesaid shall be punished with imprisonment of either description for a term not exceeding six months, or with fine or with both.]
+ipc  121.
+Waging, or attempting to wage war, or abetting waging of war, against the Government of India. —Whoever wages war against the 2[Government of India], or attempts to wage such war, or abets the waging of such war, shall be punished with death, or 3[imprisonment for life] 4[and shall also be liable to fine A joins an insurrection against the 2 Government of India.A has committed the offence defined in this section.
+ipc  121A.
+Conspiracy to commit offences punishable by section 121. —Whoever within or without 9[India] conspires to commit any of the offences punishable by section 121,  or conspires to overawe, by means of criminal force or the show of criminal force, 11[the Central Government or any [State] Government ], shall be punished with 14[imprisonment for life], or with imprisonment of either description which may extend to ten years, 15 and shall also be liable to fine.Explanation.—To constitute a conspiracy under this section, it is not necessary that any act or illegal omission shall take place in pursuance thereof.]
+ipc  122.
+Collecting arms, etc., with intention of waging war against the Government of India.—Whoever collects men, arms or ammunition or otherwise prepares to wage war with the intention of either waging or being prepared to wage war against the 2[Government of India], shall be punished with 1[imprisonment for life] or imprisonment of either description for a term not exceeding ten years, 2[and shall also be liable to fine].
+ipc  123.
+Concealing with intent to facilitate design to wage war. —Whoever by any act, or by any illegal omission, conceals the existence of a design to wage war against the 3[Government of India], intending by such concealment to facilitate, or knowing it to be likely that such concealment will facilitate, the waging of such war, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+ipc  124.
+Assaulting President, Governor, etc, with intent to compel or restrain the exercise of any lawful power. —Whoever, with the intention of inducing or compelling the 4[President] of India, or 5[Governor 6***] of any 7[State], 8*** 9*** 10*** to exercise or refrain from exercising in any of the lawful powers of such 11[President or 5[Governor 6***]], assaults or wrongfully restrains, or attempts wrongfully to restrain, or overawes, by means of criminal force or the show of criminal force, or attempts so to overawe, such 11[President or 5[Governor 6***]], shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+ipc  124A.
+Sedition.—Whoever by words, either spoken or written, or by signs, or by visible representation, or otherwise, brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards, 13*** the Government established by law in 14[India], 15*** shall be punished with 16[imprisonment for life], to which fine may be added, or with imprisonment which may extend to three years, to which fine may be added, or with fine.Explanation 1.—The expression “disaffection” includes disloyalty and all feelings of enmity.Explanation 2.—Comments expressing disapprobation of the measures of the Government with a view to obtain their alteration by lawful means, without exciting or attempting to excite hatred, contempt or disaffection, do not constitute an offence under this section.Explanation 3.—Comments expressing disapprobation of the administrative or other action of the Government without exciting or attempting to excite hatred, contempt or disaffection, do not constitute an offence under this section.]
+ipc  125.
+Waging war against any Asiatic Power in alliance with the Government of India. —Whoever wages war against the Government of any Asiatic Power in alliance or at peace with the 3[Government of India] or attempts to wage such war, or abets the waging of such war, shall be punished with 1[imprisonment for life], to which fine may be added, or with imprisonment of either description for a term which may extend to seven years, to which fine may be added, or with fine.
+ipc  126.
+Committing depredation on territories of Power at peace with the Government of India. —Whoever commits depredation, or makes preparations to commit depredation, on the territories of any Power in alliance or at peace with the 1[Government of India], shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of any property used or intended to be used in committing such depredation, or acquired by such depredation.
+ipc 127.
+Receiving property taken by war or depredation mentioned in sections 125 and 126. —Whoever receives any property knowing the same to have been taken in the commission of any of the offences mentioned in sections 125 and 126, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of the property so received.
+ipc 128.
+Public servant voluntarily allowing prisoner of state or war to escape. —Whoever, being a public servant and having the custody of any State prisoner or prisoner of war, voluntarily allows such prisoner to escape from any place in which such prisoner is confined, shall be punished with 2[imprisonment for life], or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+ipc  129.
+Public servant negligently suffering such prisoner to escape.—Whoever, being a public servant and having the custody of any State prisoner or prisoner of war, negligently suffers such prisoner to escape from any place of confinement in which such prisoner is confined, shall be punished with simple imprisonment for a term which may extend to three years, and shall also be liable to fine.
+ipc  130.
+Aiding escape of, rescuing or harbouring such prisoner. —Whoever knowingly aids or assists any State prisoner or prisoner of war in escaping from lawful custody, or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with 2[imprisonment for life], or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+ipc  131.
+Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty. —Whoever abets the committing of mutiny by an officer, soldier, 5[sailor or airman], in the Army, 6[Navy or Air Force] of the 1[Government of India] or attempts to seduce any such officer, soldier, 5[sailor or airman] from his allegiance or his duty, shall be punished with 2[imprisonment for life], or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+ipc 132.
+Abetment of mutiny, if mutiny is committed in consequence thereof. —Whoever abets the committing of mutiny by an officer, soldier, 8[sailor or airman], in the Army, 9[Navy or Air Force] of the 10[Government of India], shall, if mutiny be committed in consequence of that abetment, be punished with death or with 11[imprisonment for life], or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+ipc 133.
+Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office. —Whoever abets an assault by an officer, soldier, 8[sailor or airman], in the Army, 9[Navy or Air Force] of the 10[Government of India], on any superior officer being in the execution of his office, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+ipc 134.
+Abetment of such assault, if the assault committed. —Whoever abets an assault by an officer, soldier, 8[sailor or airman], in the Army, 9[Navy or Air Force] of the 10[Government of India], on any superior officer being in the execution of his office, shall, if such assault be committed in consequence of that abetment be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+ipc 135.
+Abetment of desertion of soldier, sailor or airman. —Whoever, abets the desertion of any officer, soldier, 8[sailor or airman], in the Army, 9[Navy or Air Force] of the 10[Government of India], shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+ipc  136.
+Harbouring deserter. —Whoever, except as hereinafter excepted, knowing or having reason to believe that an officer, soldier, 8[sailor or airman], in the Army, 9[Navy or Air Force] of the 10[Government of India], has deserted, harbours such officer, soldier, 8[sailor or airman], shall be punished with imprisonment of either description for a term which may extend to two years, or with fine or with both.Exception.—This provision does not extend to the case in which the harbour is given by a wife to her husband.
+ipc  137.
+Deserter concealed on board merchant vessel through negligence of master. —The master or person in charge of a merchant vessel, on board of which any deserter from the Army, 9[Navy or Air Force] of the 10[Government of India] is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding five hundred rupees, if he might have known of such concealment but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.
+ipc  138.
+Abetment of act of insubordination by soldier, sailor or airman. —Whoever abets what he knows to be an act of insubordination by an officer, soldier, 8[sailor or airman], in the Army, 9[Navy or air Force], of the 10[Government of India], shall, if such act of insubordination be committed in consequence of that abetment, be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+ipc  138A.
+[Application of foregoing sections to the Indian Marine Service.]Rep.by the Amending Act,1934 (35 of 1934), s.2 and Sch.
+ipc  139.
+Persons subject to certain Acts.—No person subject to 2[the Army Act, 3[the Army Act, 1950(46 of 1950)], the Naval Discipline Act, 4[5*** 6[the Indian Navy (Discipline) Act, 1934 (34 of 1934)],7[the Air Force Act or 8[the Air Force Act, 1950 (45 of 1950)]]], is subject to punishment under this Code.Code for any of the offences defined in this Chapter.
+ipc  140.
+Wearing garb or carrying token used by soldier, sailor or airman .—Whoever, not being a soldier, 9[sailor or airman] in the Military, 10[Naval or Air] service of the 11[Government of India], wears any garb or carries any token resembling any garb or token used by such a soldier, 9[sailor or airman] with the intention that it may be believed that he is such a soldier, 9[sailor or airman], shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.
+ipc  141.
+Unlawful assembly. —An assembly of five or more persons is designated an “unlawful assembly”, if the common object of the persons composing that assembly is— First.—To overawe by criminal force, or show of criminal force, 12[the Central or any State Government or Parliament or the Legislature of any State], or any public servant in the exercise of the lawful power of such public servant; or Second.—To resist the execution of any law, or of any legal process; or Third.—To commit any mischief or criminal trespass, or other offence; or Fourth.—By means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or Fifth.—By means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.Explanation.—An assembly which was not unlawful when it assembled, may subsequently become an unlawful assembly.
+ipc  142.
+Being member of unlawful assembly. —Whoever, being aware of facts which render any assembly an unlawful assembly, intentionally joins that assembly, or continues in it, is said to be a member of an unlawful assembly.
+ipc  143.
+Punishment. —Whoever is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+ipc  144.
+Joining unlawful assembly armed with deadly weapon. —Whoever, being armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+ipc 145.
+Joining or continuing in unlawful assembly, knowing it has been commanded to disperse. —Whoever joins or continues in an unlawful assembly, knowing that such unlawful assembly has been commanded in the manner prescribed by law to disperse, shall be punished with imprisonment of either description for a term which may extent to two years, or with fine, or with both.
+ipc  146.
+Rioting. —Whenever force or violence is used by an unlawful assembly, or by any member thereof, in prosecution of the common object of such assembly, every member of such assembly is guilty of the offence of rioting.
+ipc  147.
+Punishment for rioting. —Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+ipc  148.
+Rioting, armed with deadly weapon. —Whoever is guilty of rioting, being armed with a deadly weapon or with anything which, used as a weapon of offence, is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+ipc  149.
+Every member of unlawful assembly guilty of offence committed in prosecution of common object. —If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence.
+ipc  150.
+Hiring, or conniving at hiring, of persons to join unlawful assembly. —Whoever hires or engages, or employs, or promotes, or connives at the hiring, engagement or employment of any person to join or become a member of any unlawful assembly, shall be punishable as a member of such unlawful assembly, and for any offence which may be committed by any such person as a member of such unlawful assembly in pursuance of such hiring, engagement or employment, in the same manner as if he had been a member of such unlawful assembly, or himself had committed such offence.
+ipc  151.
+Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse. —Whoever knowingly joins or continues in any assembly of five or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.Explanation.—If the assembly is an unlawful assembly within the meaning of section 141, the offender will be punishable under section 145.
+ipc  152.
+Assaulting or obstructing public servant when suppressing riot, etc .—Whoever assaults or threatens to assault, or obstructs or attempts to obstruct, any public servant in the discharge of his duty as such public servant, in endeavouring to disperse an unlawful assembly, or to suppress a riot or affray, or uses, or threatens, or attempts to use criminal force to such public servant, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+ipc  153.
+Wantonly giving provocation with intent to cause riot—if rioting be committed; if not committed. —Whoever malignantly, or wantonly by doing anything which is illegal, gives provocation to any person intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting be committed in consequence of such provocation, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both; and if the offence of rioting be not committed, with imprisonment of either description for a term which may extend to six months, or with fine, or with both
+ipc  153A.
+Promoting enmity between different groups on ground of religion, race, place of birth, residence, language, etc, and doing acts prejudicial to maintenance of harmony.—(1) Whoever— (a) by words, either spoken or written, or by signs or by visible representations or otherwise, promotes or attempts to promote, on grounds of religion, race, place of birth, residence, language, caste or community or any other ground whatsoever, disharmony or feelings of enmity, hatred or illwill between different religious, racials, language or regional groups or castes or communities, or (b) commits any act which is prejudicial to the maintenance of harmony between different religious, racial, language or regional groups or castes or communities, and which disturbs or is likely to disturb the public tranquillity
+ipc  153AA.
+Punishment for knowingly carrying arms in any procession or organising, or holding or taking part in any mass drill or mass training with arms.—Whoever knowingly carries arms in any procession or organizes or holds or takes part in any mass drill or mass training with arms in any public place in contravention of any public notice or order issued or made under section 144A of the Code of Criminal Procedure, 1973 (2 of 1974) shall be punished with imprisonment for a term which may extend to six months and with fine which may extend to two thousand rupees.Explanation.—“Arms” means articles of any description designed or adapted as weapons for offence or defence and includes firearms, sharp edged weapons, lathis, dandas and sticks].
+ipc 153B.
+Imputations, assertions prejudicial to national integration.—(1) Whoever, by words either spoken or written or by signs or by visible representations or otherwise,— (a) makes or publishes any imputation that any class of persons cannot, by reason of their being members of any religious, racial, language or regional group or caste or community, bear true faith and allegiance to the Constitution of India as by law established or uphold the sovereignty and integrity of India
+ipc 154.
+Owner or occupier of land on which an unlawful assembly is held. —Whenever any unlawful assembly or riot takes place, the owner or occupier of the land upon which such unlawful assembly is held, or such riot is committed, and any person having or claiming an interest in such land, shall be punishable with fine not exceeding one thousand rupees, if he or his agent or manager, knowing that such offence is being or has been committed, or having reason to believe it is likely to be committed, do not give the earliest notice thereof in his or their power to the principal officer at the nearest police-station,and do not, in the case of his or their having reason to believe that it was about to be committed, use all lawful means in his or their power to prevent it and, in the event of its taking place, do not use all lawful means in his or their power to disperse or suppress the riot or unlawful assembly.
+ipc  155.
+Liability of person for whose benefit riot is committed .—Whenever a riot is committed for the benefit or on behalf of any person who is the owner or occupier of any land respecting which such riot takes place or who claims any interest in such land, or in the subject of any dispute which gave rise to the riot, or who has accepted or derived any benefit therefrom, such person shall be punishable with fine, if he or his agent or manager, having reason to believe that such riot was likely to be committed or that the unlawful assembly by which such riot was committed was likely to be held, shall not respectively use all lawful means in his or their power to prevent such assembly or riot from taking place, and for suppressing and dispersing the same.
+ipc  156.
+Liability of agent of owner or occupier for whose benefit riot is committed.—Whenever a riot is committed for the benefit or on behalf of any person who is the owner or occupier of any land respecting which such riot takes place, or who claims any interest in such land, or in the subject of any dispute which gave rise to the riot, or who has accepted or derived any benefit therefrom, the agent or manager of such person shall be punishable with fine, if such agent or manager, having reason to believe that such riot was likely to be committed, or that the unlawful assembly by which such riot was committed was likely to be held, shall not use all lawful means in his power to prevent such riot or assembly from taking place and for suppressing and dispersing the same.
+ipc  157.
+Harbouring persons hired for an unlawful assembly. —Whoever harbours, receives or assembles, in any house or premises in his occupation or charge, or under his control any persons knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+ipc  158.
+Being hired to take part in an unlawful assembly or riot. —Whoever is engaged, or hired, or offers or attempts to be hired or engaged, to do or assist in doing any of the acts specified in section 141, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both,or to go armed.—and whoever, being so engaged or hired as aforesaid, goes armed, or engages or offers to go armed, with any deadly weapon or with anything which used as a weapon of offence is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+ipc  159.
+Affray.—When two or more persons, by fighting in a public place, disturb the public peace, they are said to “commit an affray”.
+ipc  160.
+Punishment for committing affray.—Whoever commits an affray, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to one hundred rupees, or with both.
+ipc  161 to 165A.
+Rep.by the Prevention of Corruption Act, 1988 (49 of 1988),s.31.
+ipc  166.
+Public servant disobeying law, with intent to cause injury to any person. —Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending to cause, or knowing it to be likely that he will by such disobedience, cause injury to any person, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both.
+ipc  166A.
+Public servant disobeying direction under law. —Whoever, being a public servant,— (a) knowingly disobeys any direction of the law which prohibits him from requiring the attendance at any place of any person for the purpose of investigation into an offence or any other matter, or (b) knowingly disobeys, to the prejudice of any person, any other direction of the law regulating the manner in which he shall conduct such investigation, or (c) fails to record any information given to him under sub-section (1) of section 154 of the Code of Criminal Procedure, 1973 (2 of 1974), in relation to cognizable offence punishable under section 326A, section 326B, section 354, section 354B, section 370, section 370A, section 376, section 376A, section 376B, section 376C, section 376D, section 376E or section 509, shall be punished with rigorous imprisonment for a term which shall not be less than six months but which may extend to two years, and shall also be liable to fine.
+ipc  166B.
+Punishment for non-treatment of victim.—Whoever, being in charge of a hospital, public or private, whether run by the Central Government, the State Government, local bodies or any other person, contravenes the provisions of section 357C of the Code of Criminal Procedure, 1973 (2 of 1974), shall be punished with imprisonment for a term which may extend to one year or with fine or with both.]
+ipc  167.
+Public servant framing an incorrect document with intent to cause injury. —Whoever, being a public servant, and being, as 2[such public servant, charged with the preparation or translation of any document or electronic record, frames, prepares or translates that document or electronic record] in a manner which he knows or believes to be incorrect, intending thereby to cause or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+ipc  168.
+Public servant unlawfully engaging in trade. —Whoever, being a public servant, and being legally bound as such public servant not to engage in trade, engages in trade, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both.
+ipc  169.
+Public servant unlawfully buying or bidding for property. —Whoever, being a public servant, and being legally bound as such public servant, not to purchase or bid for certain property, purchases or bids for that property, either in his own name or in the name of another, or jointly, or in shares with others, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both; and the property, if purchased, shall be confiscated.
+ipc  170.
+Personating a public servant. —Whoever pretends to hold any particular office as a public servant, knowing that he does not hold such office or falsely personates any other person holding such office, and in such assumed character does or attempts to do any act under colour of such office, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+ipc  171.
+Wearing garb or carrying token used by public servant with fraudulent intent.—Whoever, not belonging to a certain class of public servants, wears any garb or carries any token resembling any garb or token used by that class of public servants, with the intention that it may be believed, or with the knowledge that it is likely to be believed, that he belongs to that class of public servants, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two hundred rupees, or with both.
+ipc  171A.
+“Candidate”, “Electoral right” defined.—For the purposes of this Chapter—4[(a) “candidate” means a person who has been nominated as a candidate at any election;(b) “electoral right” means the right of a person to stand, or not to stand as, or to withdraw from being, a candidate or to vote or refrain from voting at an election.
+ipc  171B.
+Bribery.—(1) Whoever—(i) gives a gratification to any person with the object of inducing him or any other person to exercise any electoral right or of rewarding any person for having exercised any such right; or (ii) accepts either for himself or for any other person any gratification as a reward for exercising any such right or for inducing or attempting to induce any other person to exercise any such right,commits the offence of bribery Provided that a declaration of public policy or a promise of public action shall not be an offence under this section.2 A person who offers, or agrees to give, or offers or attempts to procure, a gratification shall be deemed to give a gratification.3 A person who obtains or agrees to accept or attempts to obtain a gratification shall be deemed to accept a gratification, and a person who accepts a gratification as a motive for doing what he does not intend to do, or as a reward for doing what he has not done, shall be deemed to have accepted the gratification as a reward.
+ipc  171C.
+Undue influence at elections.—(1) Whoever voluntarily interferes or attempts to interfere with the free exercise of any electoral right commits the offence of undue influence at an election.2 Without prejudice to the generality of the provisions of sub-section (1), whoever— (a) threatens any candidate or voter, or any person in whom a candidate or voter is interested, with injury of any kind, or (b) induces or attempts to induce a candidate or voter to believe that he or any person in whom he is interested will become or will be rendered an object of Divine displeasure or of spiritual censure, shall be deemed to interfere with the free exercise of the electoral right of such candidate or voter, within the meaning of sub-section 1.3 A declaration of public policy or a promise of public action or the mere exercise or a legal right without intent to interfere with an electoral right, shall not be deemed to be interference within the meaning of this section.
+ipc  171D.
+Personation at elections. —Whoever at an election applies for a voting paper on votes in the name of any other person, whether living or dead, or in a fictitious name, or who having voted once at such election applies at the same election for a voting paper in his own name, and whoever abets, procures or attempts to procure the voting by any person in any such way, commits the offence of personation at an election.1[Provided that nothing in this section shall apply to a person who has been authorised to vote as proxy for an elector under any law for the time being in force in so far as he votes as a proxy for such elector.]
+ipc  171E.
+Punishment for bribery. —Whoever commits the offence of bribery shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both Provided that bribery by treating shall be punished with fine onlY.
+ipc  171F.
+Punishment for undue influence or personation at an election. —Whoever commits the offence of undue influence or personation at an election shall be punished with imprisonment of either description for a term which may extend to one year or with fine, or with both.
+ipc  171G.
+False statement in connection with an election. —Whoever with intent to affect the result of an election makes or publishes any statement purporting to be a statement of fact which is false and which he either knows or believes to be false or does not believe to be true, in relation to the personal character or conduct of any candidate shall be punished with fine.
+ipc  171H.
+Illegal payments in connection with an election.—Whoever without the general or special authority in writing of a candidate incurs or authorises expenses on account of the holding of any public meeting, or upon any advertisement, circular or publication, or in any other way whatsoever for the purpose of promoting or procuring the election of such candidate, shall be punished with fine which may extend to five hundred rupees Provided that if any person having incurred any such expenses not exceeding the amount of ten rupees without authority obtains within ten days from the date on which such expenses were incurred the approval in writing of the candidate, he shall be deemed to have incurred such expenses with the authority of the candidate.
+ipc  171-I.
+Failure to keep election accounts. —Whoever being required by any law for the time being in force or any rule having the force of law to keep accounts of expenses incurred at or in connection with an election fails to keep such accounts shall be punished with fine which may extend to five hundred rupees.]
+ipc  172.
+Absconding to avoid service of summons or other proceeding. —Whoever absconds in order to avoid being served with a summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both; or, if the summons or notice or order is to attend in person or by agent, or to 1[produce a document or an electronic record in a Court of Justice], with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+ipc  173.
+Preventing service of summons or other proceeding, or preventing publication thereof.— Whoever in any manner intentionally prevents the serving on himself, or on any other person, of any summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, or intentionally prevents the lawful affixing to any place of any such summons, notice or order, or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed, or intentionally prevents the lawful making of any proclamation, under the authority of any public servant legally competent, as such public servant, to direct such proclamation to be made, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both; or, if the summons, notice, order or proclamation is to attend in person or by agent, or 2[to produce a document or electronic record in a Court of Justice] with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+ipc 174.
+Non-attendance in obedience to an order from public servant. —Whoever, being legally bound to attend in person or by an agent at a certain place and time in obedience to a summons, notice, order, or proclamation proceeding from any public servant legally competent, as such public servant, to issue the same, intentionally omits to attend at that place or time, or departs from the place where he is bound to attend before the time at which it is lawful for him to depart,shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both; or, if the summons, notice, order or proclamation is to attend in person or by agent in a Court of Justice, with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+ipc  174A .
+Non-appearance in response to a proclamation under section 82 of Act 2 of 1974. —Whoever fails to appear at the specified place and the specified time as required by a proclamation published under sub-section (1) of section 82 of the Code of Criminal Procedure, 1973 shall be punished with imprisonment for a term which may extend to three years or with fine or with both, and where a declaration has been made under sub-section (4) of that section pronouncing him as a proclaimed offender, he shall be punished with imprisonment for a term which may extend to seven years and shall also be liable to fine.]
+ipc  175.
+Omission to produce document to public servant by person legally bound to produce it. —Whoever, being legally bound to produce or deliver up any 4[document or electronic record] to any public servant, as such, intentionally omits so to produce or deliver up the same, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both; or, if the 4[document or electronic record] is to be produced or delivered up to a Court of Justice, with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+ipc 176.
+Omission to give notice or information to public servant by person legally bound to give it.—Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both; or, if the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both; 6[or, if the notice or information required to be given is required by an order passed under sub-section (1) of section 565 of the Code of Criminal Procedure, 1898 (5 of 1898), with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.]
+ipc  177.
+Furnishing false information. —Whoever, being legally bound to furnish information on any subject to any public servant, as such, furnishes, as true, information on the subject which he knows or has reason to believe to be false shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both;
+ipc  178.
+Refusing oath or affirmation when duly required by public servant to make it. —Whoever refuses to bind himself by an oath 4[or affirmation] to state the truth, when required so to bind himself by a public servant legally competent to require that he shall so bind himself, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+ipc 179.
+Refusing to answer public servant authorised to question.—Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant in the exercise of the legal powers of such public servant, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+ipc  180.
+Refusing to sign statement.—Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with simple imprisonment for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.
+ipc  181.
+False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation—Whoever, being legally bound by an oath 4[or affirmation] to state the truth on any subject to any public servant or other person authorized by law to administer such oath 4[or affirmation], makes, to such public servant or other person as aforesaid, touching that subject, any statement which is false, and which he either knows or believes to be false or does not believe to be true, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+ipc  182.
+False information, with intent to cause public servant to use his lawful power to the
+injury of another person.—Whoever gives to any public servant any information which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant—(a) to do or omit anything which such public servant ought not to do or omit if the true state of facts respecting which such information is given were known by him, or (b) to use the lawful power of such public servant to the injury or annoyance of any person,
+ipc  183.
+Resistance to the taking of property by the lawful authority of a public servant.—Whoever offers any resistance to the taking of any property by the lawful authority of any public servant, knowing or having reason to believe that he is such public servant, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+ipc  184.
+Obstructing sale of property offered for sale by authority of public servant. —Whoever intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant, as such, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both.
+ipc  185.
+Illegal purchase or bid for property offered for sale by authority of public servant. —Whoever, at any sale of property held by the lawful authority of a public servant, as such, purchases or bids for any property on account of any person, whether himself or any other, whom he knows to be under a legal incapacity to purchase that property at that sale, or bids for such property not intending to perform the obligations under which he lays himself by such bidding, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both.
+ipc 186.
+Obstructing public servant in discharge of public functions. —Whoever voluntarily obstructs any public servant in the discharge of his public functions, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.
+ipc 187.
+Omission to assist public servant when bound by law to give assistance.—Whoever, being bound by law to render or furnish assistance to any public servant in the execution of his public duty, intentionally omits to give such assistance, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both; and if such assistance be demanded of him by a public servant legally competent to make such demand for the purposes of executing any process lawfully issued by a Court of Justice, or of preventing the commission of an offence, or suppressing a riot, or affray, or of apprehending a person charged with or guilty of an offence, or of having escaped from lawful custody, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five hundred rupees, or with both.
+ipc 188.
+Disobedience to order duly promulgated by public servant. —Whoever, knowing that, by an order promulgated by a public servant lawfully empowered to promulgate such order, he is directed to abstain from a certain act, or to take certain order with certain property in his possession or under his management, disobeys such direction, shall, if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any persons lawfully employed, be punished with simple imprisonment for a term which may extend to one month or with fine which may extend to two hundred rupees,or with both.
+ipc  189.
+Threat of injury to public servant. —Whoever holds out any threat of injury to any public servant, or to any person in whom he believes that public servant to be interested, for the purpose of inducing that public servant to do any act, or to forbear or delay to do any act, connected with the exercise of the public functions of such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+ipc  190.
+Threat of injury to induce person to refrain from applying for protection to public servant. —Whoever holds out any threat of injury to any person for the purpose of inducing that person to refrain or desist from making a legal application for protection against any injury to any public servant legally empowered as such to give such protection, or to cause such protection to be given, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+ipc  191.
+Giving false evidence. —Whoever, being legally bound by an oath or by an express provision of law to state the truth, or being bound by law to make a declaration upon any subject, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, is said to give false evidence.Explanation1.—A statement is within the meaning of this section, whether it is made verbally or otherwise.Explanation 2.—A false statement as to the belief of the person attesting is within the meaning of this section, and a person may be guilty of giving false evidence by stating that he believes a thing which he does not believe, as well as by stating that he knows a thing which he does not know.
+ipc  192.
+Fabricating false evidence.—Whoever causes any circumstance to exist or 1[makes any false entry in any book or record, or electronic record or makes any document or electronic record containing a false statement,] intending that such circumstance, false entry or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstance, false entry or false statement, so appearing in evidence, may cause any person who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding is said “to fabricate false evidence”.
+ipc  193.
+Punishment for false evidence.—Whoever intentionally gives false evidence in any of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and whoever intentionally gives or fabricates false evidence in any other case, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.Explanation 1.—A trial before a Court-martial1***is a judicial proceeding.Explanation 2.—An investigation directed by law preliminary to a proceeding before a Court of Justice, is a stage of a judicial proceeding, though that investigation may not take place before a Court of Justice.
+ipc  194.
+Giving or fabricating false evidence with intent to procure conviction of capital offence. —Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital 2[by the law for the time being in force in 3[India]] shall be punished with 4[imprisonment for life], or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; If innocent person be thereby convicted and executed.—and if an innocent person be convicted and executed in consequence of such false evidence, the person who gives such false evidence shall be punished either with death or the punishment hereinbefore described.
+ipc  195.
+Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment. —Whoever gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which 2[by the law for the time being in force in 3[India]] is not capital, but punishable with 4[imprisonment for life], or imprisonment for a term of seven years or upwards, shall be punished as a person convicted of that offence would be liable to be punished.
+ipc  195A.
+Threatening any person to give false evidence.—Whoever threatens another with any injury to his person, reputation or property or to the person or reputation of any one in whom that person is interested, with intent to cause that person to give false evidence shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both; and if innocent person is convicted and sentenced in consequence of such false evidence, with death or imprisonment for more than seven years, the person who threatens shall be punished with the same punishment and sentence in the same manner and to the same extent such innocent person is punished and sentenced.]
+ipc  196.
+Using evidence known to be false. —Whoever corruptly uses or attempts to use as true or genuine evidence any evidence which he knows to be false or fabricated, shall be punished in the same manner as if he gave or fabricated false evidence.
+ipc  197.
+Issuing or signing false certificate. —Whoever issues or signs any certificate required by law to be given or signed, or relating to any fact of which such certificate is by law admissible in evidence, knowing or believing that such certificate is false in any material point, shall be punished in the same manner as if he gave false evidence.
+ipc 198.
+Using as true a certificate known to be false. —Whoever corruptly uses or attempts to use any such certificate as a true certificate, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.
+ipc  199.
+False statement made in declaration which is by law receivable as evidence. —Whoever, in any declaration made or subscribed by him, which declaration any Court of Justice, or any public servant or other person, is bound or authorised by law to receive as evidence of any fact, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, touching any point material to the object for which the declaration is made or used, shall be punished in the same manner as if he gave false evidence.
+ipc  200.
+Using as true such declaration knowing it to be false.—Whoever corruptly uses or attempts to use as true any such declaration, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.Explanation.—A declaration which is inadmissible merely upon the ground of some informality, is a declaration within the meaning of sections 199 and 200.

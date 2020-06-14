@@ -1,243 +1,5 @@
-ipc 100.
-When the right of private defence of the body extends to causing death .
-ipc 101. 
-When such right extends to causing any harm other than death.
-ipc 102. 
-Commencement and continuance of the right of private defence of the body.
-ipc 103. 
-When the right of private defence of property extends to causing death.
-ipc 104.
-When such right extends to causing any harm other than death.
-ipc 105. 
-Commencement and continuance of the right of private defence of property.
-ipc 106. 
-Right of private defence against deadly assault when there is risk of harm to innocent person.
-ipc 107. 
-Abetment of a thing.
-ipc 108. 
-Abettor.
-ipc 108A. 
-Abetment in Indian of offences outside India.
-ipc 109. 
-Punishment of a abetment if the act abetted is committed in consequence and when no express provision is made for its punishment.
-ipc 110. 
-Punishment of abetment if person abetted does act with different intention from that of abet tor.
-ipc 111. 
-Liability of abettor when one act abetted and different act done.
-ipc 112. 
-Abettor when liable to cumulative punishment for act abetted and for act done.
-ipc 113. 
-Liability of abettor for an effect caused by the act abetted different from that intended by the abettor.
-ipc 114. 
-Abettor present when offence is committed.
-ipc 115. 
-Abetment of offence punishable with death or imprisonment for life. —if offence not committed. if act causing harm be done in consequence.
-ipc 116. 
-Abetment of offence punishable with imprisonment.—if offence be not committed. if abettor or person abetted be a public servant whose duty it is to prevent offence.
-ipc 117. 
-Abetting commission of offence by the public or by more than ten persons.
-ipc 118. 
-Concealing design to commit offence punishable with death or imprisonment for life.If offence be committed;if offence be not committed.
-ipc 119. 
-Public servant concealing design to commit offence which it is his duty to prevent.if offence be committed;if offence be punishable with death, etc.if offence be not committed.
-ipc 120. 
-Concealing design to commit offence punishable with imprisonment.if offence be committed;if offence be not committed.
-ipc 120A. 
-Definition of criminal conspiracy.
-ipc 120B. 
-Punishment of criminal conspiracy.
-ipc 121. 
-Waging, or attempting to wage war, or abetting waging of war, against the Government of India.
-ipc 121A. 
-Conspiracy to commit offences punishable by section 121.
-ipc 122. 
-Collecting arms, etc., with intention of waging war against the Government of India.
-ipc 123. 
-Concealing with intent to facilitate design to wage war.
-ipc 124. 
-Assaulting President. Governor, etc., with intent to compel or restrain the exercise of any lawful power.
-ipc 124A. 
-Sedition.
-ipc 125. 
-Waging war against any Asiatic power in alliance with the Government of India.
-ipc 126. 
-Committing depredation on territories of power at peace with the Government of India.
-ipc 127. 
-Receiving property taken by war or depredation mentioned in sections 125 and 126.
-ipc 128. 
-Public servant voluntarily allowing prisoner of State or war to escape.
-ipc 129. 
-Public servant negligently suffering such prisoner to escape.
-ipc 130. 
-Aiding escape of, rescuing or harbouring such prisoner.
-ipc 131. 
-Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty.
-ipc 132. 
-Abetment of mutiny, if mutiny is committed in consequence thereof.
-ipc 133. 
-Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office.
-ipc 134. 
-Abetment of such assault, if the assault is committed.
-ipc 135. 
-Abetment of desertion of soldier, sailor or airman.
-ipc 136. 
-Harbouring deserter.
-ipc 137. 
-Deserter concealed on board merchant vessel through negligence of master.
-ipc 138. 
-Abetment of act of insubordination by soldier, sailor or airman.
-ipc 138A. 
-[Repealed.]
-ipc 139. 
-Persons subject to certain Acts.
-ipc 140. 
-Wearing garb or carrying token used by soldier, sailor or airman.
-ipc 141. 
-Unlawful assembly.
-ipc 142. 
-Being member of unlawful assembly.
-ipc 143. 
-Punishment.
-ipc 144. 
-Joining unlawful assembly armed with deadly weapon.
-ipc 145. 
-Joining or continuing in unlawful assembly, knowing it has been commanded to disperse.
-ipc 146. 
-Rioting.
-ipc 147. 
-Punishment for rioting.
-ipc 148. 
-Rioting, armed with deadly weapon.
-ipc 149. 
-Every member of unlawful assembly guilty of offence committed in prosecution of common object.
-ipc 150. 
-Hiring, or conniving at hiring, of persons to join unlawful assembly.
-ipc 151. 
-Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse.
-ipc 152. 
-Assaulting or obstructing public servant when suppressing riot, etc.
-ipc 153. 
-Wantonly giving provocation, with intent to cause riot—if rioting be committed; if not committed.
-ipc 153A. 
-Promoting enmity between different groups on grounds of religion, race, place of birth, residence.language, etc., and doing acts prejudicial to maintenance of harmony.Offence committed in place of worship, etc.
-ipc 153AA. 
-Punishment for knowingly carrying arms in any procession or organizing, or holding or taking part in any mass drill or mass training with arms.
-ipc 153B. 
-Imputation, assertions prejudicial to national-integration.
-ipc 154. 
-Owner or occupier of land on which an unlawful assembly is held.
-ipc 155. 
-Liability of person for whose benefit riot is committed.
-ipc 156. 
-Liablility of agent of owner or occupier for whose benefit riot is committed.
-ipc 157. 
-Harbouring persons hired for an unlawful assembly.
-ipc 158. 
-Being hired to take part in an unlawful assembly or riot; or to go armed.
-ipc 159. 
-Affray.
-ipc 160. 
-Punishment for committing affray.
-ipc 161. 
-to 165A. [Repealed.]
-ipc 166. 
-Public servant disobeying law, with intent to cause injury to any person.
-ipc 166A. 
-Public servant disobeying direction under law.
-ipc 166B. 
-Punishment for non-treatment of victim.
-ipc 167. 
-Public servant framing an incorrect document with intent to cause injury .
-ipc 168. 
-Public servant unlawfully engaging in trade.
-ipc 169. 
-Public servant unlawfully buying or bidding for property.
-ipc 170. 
-Personating a public servant.
-ipc 171. 
-Wearing garb or carrying token used by public servant with fraudulent intent.
-ipc 171A. 
-“Candidate”, “Electoral right” defined.
-ipc 171B. 
-Bribery.
-ipc 171C. 
-Undue influence at elections.
-ipc 171D.
-Personation at elections.
-ipc 171E. 
-Punishment for bribery.
-ipc 171F. 
-Punishment for undue influence or personation at an election.
-ipc 171G.
-False statement in connection with an election.
-ipc 171H. 
-Illegal payments in connection with an election.
-ipc 171-I. 
-Failure to keep election accounts.
-ipc 172. 
-Absconding to avoid service of summons of other proceeding.
-ipc 173. 
-Preventing service of summons or other proceeding, or preventing publication thereof.
-ipc 174. 
-Non-attendance in obedience to an order from public servant.
-ipc 174A. 
-Non-appearance in response to a proclamation under section 82 of Act 2 of 1974.
-ipc 175. 
-Omission to produce document to public servant by person legally bound to produce it.
-ipc 176. 
-Omission to give notice or information to public servant by person legally bound to give it.
-ipc 177. 
-Furnishing false information.
-ipc 178. 
-Refusing oath or affirmation when duly required by public servant to make it.
-ipc 179. 
-Refusing to answer public servant authori sed to question.
-ipc 180. 
-Refusing to sign statement.
-ipc 181. 
-False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation.
-ipc 182. 
-False information, with intent to cause public servant to use his lawful power to the injury of another person.
-ipc 183. 
-Resistance to the taking of property by the lawful authority of a public servant.
-ipc 184. 
-Obstructing sale of property offered for sale by authority of public servant.
-ipc 185. 
-Illegal purchase or bid for property offered for sale by authority of public servant.
-ipc 186. 
-Obstructing public servant in discharge of public functions.
-ipc 187. 
-Omission to assist public servant when bound by law to give assistance.
-ipc 188. 
-Disobedience to order duly promulgated by public servant.
-ipc 189. 
-Threat of injury to public servant.
-ipc 190. 
-Threat of injury to induce person to refrain from applying for protection to public servant.
-ipc 191. 
-Giving false evidence.
-ipc 192. 
-Fabricating false evidence.
-ipc 193. 
-Punishment for false evidence.
-ipc 194. 
-Giving or fabricating false evidence with intent to procure conviction of capital offence. if innocent person be thereby convicted and executed.
-ipc 195. 
-Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment.
-ipc 195A. T
-hreatening any person to give false evidence.
-ipc 196. 
-Using evidence known to be false.
-ipc 197. 
-Issuing or signing false certificate.
-ipc 198. 
-Using as true a certificate known to be false.
-ipc 199. 
-False statement made in declaration which is by law receivable as evidence.
-ipc 200. 
-Using as true such declaration knowing it to be false.
-ipc 201. 
-Causing disappearance of evidence of offence, or giving false information, to screen offender—if a capital offence;if punishable with imprisonment for life;if punishable with less than ten Years' imprisonment.
+IPC  201.
+Causing disappearance of evidence of offence, or giving false information to screen offender.—Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false,if a capital offence.—shall, if the offence which he knows or believes to have been committed is punishable with death be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.if punishable with imprisonment for life.—and if the offence is punishable with 1[imprisonment for life], or with imprisonment which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.if punishable with less than ten years’ imprisonment.—and if the offence is punishable with imprisonment for any term not extending to ten years, shall be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine or with both.
 ipc 202. 
 Intentional omission to give information of offence by person bound to inform.
 ipc 203. 
@@ -261,7 +23,7 @@ False charge of offence made with intent to injure.
 ipc 212. 
 Harbouring offender.—if a capital offence;if punishable with imprisonment for life, or with imprisonment.
 ipc 213. 
-Taking gift, etc., to screen an offender from punishment.—if a capital offence;if punishable with imprisonment for life, or with imprisonment.
+Taking gift, etc,to screen an offender from punishment.—if a capital offence;if punishable with imprisonment for life, or with imprisonment.
 ipc 214. 
 Offering gift or restoration of property in consideration of screening offender if a capital offence;if punishable with imprisonment for life, or with imprisonment.
 ipc 215. 
@@ -629,7 +391,7 @@ Buying minor for purposes of prostitution, etc.
 ipc 374. 
 Unlawful compulsory labour.Sexual offences
 ipc 375. 
-Rape.
+Rape.A man is said to commit “rape” who, except in the case hereinafter excepted, has sexual intercourse with a woman under circumstances falling under any of the six following de­scriptions:—(First) — Against her will.(Secondly) —Without her consent.(Thirdly) — With her consent, when her consent has been obtained by putting her or any person in whom she is interested in fear of death or of hurt.(Fourthly) —With her consent, when the man knows that he is not her husband, and that her consent is given because she believes that he is another man to whom she is or believes herself to be law­fully married.(Fifthly) — With her consent, when, at the time of giving such consent, by reason of unsoundness of mind or intoxication or the administration by him personally or through another of any stupe­fying or unwholesome substance, she is unable to understand the nature and consequences of that to which she gives consent.(Sixthly) — With or without her consent, when she is under sixteen years of age. Explanation.—Penetration is sufficient to constitute the sexual intercourse necessary to the offence of rape.(Exception) —Sexual intercourse by a man with his own wife, the wife not being under fifteen years of age, is not rape.] STATE AMENDMENT
 ipc 376. 
 Punishment for rape.
 ipc 376A. 
@@ -643,7 +405,7 @@ Gang rape.
 ipc 376E. 
 Punishment for repeat offenders Of Unnatural offences
 ipc 377. 
-Unnatural offences.
+Unnatural offences.it makes sexual activities "against the order of nature" illegal.On 6 September 2018, the Supreme Court of India ruled that the application of Section 377 to consensual homosexual sex between adults was unconstitutional, "irrational, indefensible and manifestly arbitrary",[1] but that Section 377 remains in force relating to sex with minors, non-consensual sexual acts, and bestiality
 ipc 378. 
 Theft.
 ipc 379. 

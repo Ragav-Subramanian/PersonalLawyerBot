@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>PLB</title>
+  <title>Heisenberg</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -16,7 +16,7 @@
   <section class="msger">
     <header class="msger-header">
       <div class="msger-header-title">
-        <p>PLB</p>
+        <p>Heisenberg</p>
       </div>
     </header>
 
@@ -26,12 +26,12 @@
 
         <div class="msg-bubble">
           <div class="msg-info">
-            <div class="msg-info-name">PLB</div>
+            <div class="msg-info-name">Heisenberg</div>
             <div class="msg-info-time"></div>
           </div>
 
           <div class="msg-text">
-            Hi, I am PLB! 🤖. How can I help?
+            Hi, I am Heisenberg! Your Personal Lawyer Bot🤖. How can I help?
           </div>
         </div>
       </div>
@@ -39,11 +39,10 @@
     </main>
 
     <form class="msger-inputarea">
-      <input type="text" class="msger-input" id="textInput" placeholder="Start typing..">
+      <input type="text" class="msger-input" id="textInput" placeholder="Start typing.." autofocus>
       <button type="submit" class="msger-send-btn">Send</button>
     </form>
   </section>
-  <!-- partial -->
   <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
   <script>
 
@@ -55,7 +54,7 @@
 
     const BOT_IMG = "https://image.flaticon.com/icons/svg/1624/1624640.svg"
     const PERSON_IMG = "https://image.flaticon.com/icons/svg/2922/2922719.svg";
-    const BOT_NAME = "PLB";
+    const BOT_NAME = "Heisenberg";
     const PERSON_NAME = "You";
 
     msgerForm.addEventListener("submit", event => {
@@ -70,7 +69,6 @@
     });
 
     function appendMessage(name, img, side, text) {
-      //   Simple solution for small apps
       const msgHTML = `
 <div class="msg ${side}-msg">
   <div class="msg-img" style="background-image: url(${img})"></div>
@@ -79,6 +77,7 @@
     <div class="msg-info">
       <div class="msg-info-name">${name}</div>
       <div class="msg-info-time">${formatDate(new Date())}</div>
+      ${side}-
     </div>
 
     <div class="msg-text">${text}</div>
@@ -92,17 +91,15 @@
 
     function botResponse(rawText) {
 
-      // Bot Response
-      $.get("/get", { msg: rawText }).done(function (data) {
-        console.log(rawText);
-        console.log(data);
-        const msgText = data;
-        appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
+        // Bot Response
+        $.get("/get", {msg: rawText}).done(function (data) {
+            console.log(rawText);
+            console.log(data);
+            const msgText = data;
+            appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
 
-      });
-
+        });
     }
-
 
     // Utils
     function get(selector, root = document) {
@@ -115,8 +112,6 @@
 
       return `${h.slice(-2)}:${m.slice(-2)}`;
     }
-
-
 
   </script>
 
