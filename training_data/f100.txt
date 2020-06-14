@@ -19,55 +19,55 @@ Gender.
 ipc 9.
 Number.
 ipc 10.
-“Man”. “Woman”.
+Man. Woman.
 ipc 11.
 ipc “Person”.
 ipc 12.
-“Public”.
+Public.
 ipc 13.
-[Omitted.]
+Omitted.
 ipc 14.
-“Servant of Government”.
+Servant of Government.
 ipc 15.
-[Repealed.]
+Repealed.
 ipc 16.
-[Repealed.]
+Repealed.
 ipc 17.
-“Government”.
+Government.
 ipc 18.
-“India”.
+India.
 ipc 19.
-“Judge”.
+Judge.
 ipc 20.
-“Court of Justice”.
+Court of Justice.
 ipc 21.
-“Public servant”.
+Public servant.
 ipc 22.
-“Moveable property”.
+Moveable property.
 ipc 23.
-Wrongful gain.Wrongful loss.Gaining wrongfully/ Losing wrongfully.
+Wrongful gain.Wrongful loss.Gaining wrongfully. Losing wrongfully.
 ipc 24.
-“Dishonestly”.
+Dishonestly.
 ipc 25.
-“Fraudulently”.
+Fraudulently.
 26.ipc
-“Reason to believe”.
+Reason to believe.
 ipc 27.
 Property in possession of wife, clerk or servant.
 ipc 28.
-“Counterfeit”.
+Counterfeit.
 ipc 29.
-“Document”.
+Document.
 ipc 29A.
-“Electronic record”.
+Electronic record.
 ipc 30.
-“Valuable security”.
+Valuable security.
 ipc 31.
-“A will”.
+A will.
 ipc 32.
 Words referring to acts include illegal omissions.
 ipc 33.
-“Act”. “Omission”.
+Act.Omission.
 ipc 34.
 Acts done by several persons in furtherance of common intention.
 ipc 35.
@@ -79,35 +79,35 @@ Co-operation by doing one of several acts constituting an offence.
 ipc 38.
 Persons concerned in criminal act may be guilty of different offences.
 ipc 39.
-“Voluntarily”.
+Voluntarily.
 ipc 40.
-“Offence”.
+Offence.
 ipc 41.
-“Special law”.
+Special law.
 ipc 42.
-“Local law”.
+Local law.
 ipc 43.
-“Illegal”.“Legally bound to do”.
+Illegal.Legally bound to do.
 ipc 44.
-“Injury”.
+Injury.
 ipc 45.
-“Life”.
+Life.
 ipc 46.
-“Death”.
+Death.
 ipc 47.
-“Animal”.
+Animal.
 ipc 48.
-“Vessel”.
+Vessel.
 ipc 49.
-“Year”. “Month”.
+Year.Month.
 ipc  50.
-“Section”.
+Section.
 ipc 51.
-“Oath”.
+Oath.
 ipc 52.
-“Good faith”.
+Good faith.
 ipc 52A.
-“Harbour-“.
+Harbour.
 ipc 53.
 Punishments.
 ipc 53A.
@@ -117,21 +117,21 @@ Commutation of sentence of death.
 ipc 55.
 Commutation of sentence of imprisonment for life.
 ipc 55A.
-Definition of "appropriate Government".
+Definition of appropriate Government.
 ipc 56.
- [Repealed.]
+Repealed.
 ipc 57.
 Fractions of terms of punishment.
 ipc 58.
-[Repealed.]
+Repealed.
 ipc 59.
-[Repealed.]
+Repealed
 ipc 60.
-Sentence may be (in certain cases of imprisonment) wholly or partly rigorous of simple.
+Sentence may be in certain cases of imprisonment wholly or partly rigorous of simple.
 ipc 61.
-[Repealed.]
+Repealed.
 ipc 62.
-[Repealed.]
+Repealed
 ipc 63.
 Amount of fine.
 ipc 64.
