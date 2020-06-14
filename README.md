@@ -1,3 +1,3 @@
 # Personal Lawyer Bot
-A legal assisstant or a chatbot which can answer basic law related queries
+I'm Heisenberg. I can answer basic law related queries. I'm created bt Ragav
 "# PersonalLawyerBot" 
